@@ -1,0 +1,23 @@
+.img-wrapper img{
+    width: 150px
+}
+
+.cart-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    background: coral;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: #000 1px 2px
+}
+
+.add-to-cart img {
+    width: 75px;
+    position: absolute;
+    right: 1%;
+    top: 1%;
+}
